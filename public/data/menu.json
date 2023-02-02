@@ -1,0 +1,76 @@
+{
+    "menu" : [
+        {
+            "id" : 1,
+            "title" : "Best Spaggheti",
+            "topping" : "With Saus Hots",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Spaggheti.png"
+        },
+        {
+            "id" : 2,
+            "title" : "Steak Beef Special",
+            "topping" : "With Hot Chili",
+            "price" : 40.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Steak.png"
+        },
+        {
+            "id" : 3,
+            "title" : "Burger Campur Special",
+            "topping" : "With Spich",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Burger.png"
+        },
+        {
+            "id" : 4,
+            "title" : "Potato satu satu",
+            "topping" : "With Sausage",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Potato.png"
+        },{
+            "id" : 5,
+            "title" : "Best Spaggheti",
+            "topping" : "With Saus Hots",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Spaggheti.png"
+        },
+        {
+            "id" : 6,
+            "title" : "Steak Beef Special",
+            "topping" : "With Hot Chili",
+            "price" : 40.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Steak.png"
+        },
+        {
+            "id" : 7,
+            "title" : "Burger Campur Special",
+            "topping" : "With Spich",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Burger.png"
+        },
+        {
+            "id" : 8,
+            "title" : "Potato satu satu",
+            "topping" : "With Sausage",
+            "price" : 20.00,
+            "rating" : 2.1,
+            "desc" : " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum alias quisquam temporibus sapiente sit quidem minus!",
+            "image" : "Potato.png"
+        }
+        
+    ]
+}
